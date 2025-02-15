@@ -2,7 +2,7 @@
 AI-Powered Blog Content Generator : A tool that generates blog content based on user-provided topic.
 2.Instructions to run thise Project:
 To implement thise project, you have to install Xampp Local Server.
-After installing and setup, copy this folder  inside Xampp such that (C:\xampp\htdocs\ai-blog-generator).
+After installing and setup, paste this folder  inside Xampp such that (C:\xampp\htdocs\ai-blog-generator).
 Start Apache and MySQL from Xampp control Panel.
 In your browser opean "http://localhost/phpmyadmin/".
 To create batabase copy this query and paste it in phpmyadmin: 
