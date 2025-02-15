@@ -5,7 +5,7 @@ To implement thise project, you have to install Xampp Local Server.
 After installing and setup, paste this folder  inside Xampp such that (C:\xampp\htdocs\ai-blog-generator).
 Start Apache and MySQL from Xampp control Panel.
 In your browser opean "http://localhost/phpmyadmin/".
-To create batabase copy this query and paste it in phpmyadmin: 
+To create batabase copy this query and paste it in phpmyadmin->sql: 
 "CREATE DATABASE ai_blog_db;
 
 USE ai_blog_db;
